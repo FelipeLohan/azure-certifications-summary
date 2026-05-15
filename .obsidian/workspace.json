@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AZ-900/1. Fundamentos Cloud na Azure/Conta gratuita.md",
+                "file": "AZ-900/Extras/Dados, Big Data e IA na Azure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conta gratuita"
+              "title": "Dados, Big Data e IA na Azure"
             }
           }
         ]
@@ -182,6 +182,25 @@
   },
   "active": "424517940032db9f",
   "lastOpenFiles": [
+    "README.md.tmp.1008.1778884677025",
+    "README.md.tmp.1008.1778884664324",
+    "AZ-900/1. Fundamentos Cloud na Azure/Conta gratuita.md",
+    "AZ-900/3. Serviços de Computação no Azure/3.9 Azure CLI, Cloud Shell e PowerShell.md",
+    "AZ-900/3. Serviços de Computação no Azure/3.8 Azure Marketplace.md",
+    "AZ-900/3. Serviços de Computação no Azure/3.7 Serviço de Aplicativo Azure (App Service).md",
+    "AZ-900/3. Serviços de Computação no Azure/3.6 Azure Functions (Aplicativo de Funções).md",
+    "AZ-900/3. Serviços de Computação no Azure/3.5 Azure Kubernetes Service (AKS).md",
+    "AZ-900/3. Serviços de Computação no Azure/3.4 Containers no Azure.md",
+    "AZ-900/3. Serviços de Computação no Azure/3.3 Área de Trabalho Virtual do Azure (Azure Virtual Desktop).md",
+    "AZ-900/3. Serviços de Computação no Azure/3.2 Conjunto de Escala de Máquinas (Virtual Machine Scale Sets).md",
+    "AZ-900/3. Serviços de Computação no Azure/3.1 Máquinas Virtuais (VM).md",
+    "AZ-900/2. Estrutura Azure/2.2 Grupos de Recursos (Resource Groups).md",
+    "AZ-900/2. Estrutura Azure/2.1 Zona de Disponibilidade (Availability Zone).md",
+    "AZ-900/1. Fundamentos Cloud na Azure/1.4 Tipos de Suporte.md",
+    "AZ-900/1. Fundamentos Cloud na Azure/1.3 Conta gratuita.md",
+    "AZ-900/1. Fundamentos Cloud na Azure/1.2 Modelos de Cloud.md",
+    "AZ-900/1. Fundamentos Cloud na Azure/1.1 Tipos de Cloud.md",
+    "README.md",
     "AZ-900/Extras/Dados, Big Data e IA na Azure.md",
     "AZ-900/Extras/Soluções de IoT na Azure.md",
     "AZ-900/Sem título.md",
@@ -191,34 +210,15 @@
     "AZ-900/7. Segurança na Azure/7.3 Microsoft Defender para Nuvem (Defender for Cloud).md",
     "AZ-900/7. Segurança na Azure/7.2 O Conceito de Firewall (Azure Firewall).md",
     "AZ-900/7. Segurança na Azure/7.1 A Segurança da Estrutura Azure.md",
-    "AZ-900/6. Serviços de Bancos de Dados/6.5 Migração de Bancos de Dados.md",
     "AZ-900/7. Segurança na Azure",
-    "AZ-900/5. Serviços de Armazenamento no Azure/5.4 Gerenciando Discos (Azure Disk Storage).md",
-    "AZ-900/6. Serviços de Bancos de Dados/6.4 Azure Database para MySQL e PostgreSQL.md",
-    "AZ-900/6. Serviços de Bancos de Dados/6.3 Azure SQL.md",
-    "AZ-900/6. Serviços de Bancos de Dados/6.2 Azure Cosmos DB.md",
-    "AZ-900/6. Serviços de Bancos de Dados/6.1 O que são Banco de Dados na Nuvem.md",
     "AZ-900/6. Serviços de Bancos de Dados",
-    "AZ-900/5. Serviços de Armazenamento no Azure/5.3 Adicionando Arquivos ao Container.md",
-    "AZ-900/5. Serviços de Armazenamento no Azure/5.2 Azure Blob Storage.md",
-    "AZ-900/5. Serviços de Armazenamento no Azure/5.1 Conta de Armazenamento (Storage Account).md",
-    "AZ-900/4. Serviços de Rede no Azure/4.1 Conceitos de IP e Rede.md",
     "AZ-900/5. Serviços de Armazenamento no Azure",
-    "AZ-900/4. Serviços de Rede no Azure/4.2 VNet (Virtual Network).md",
-    "AZ-900/1. Fundamentos Cloud na Azure/Tipos de Suporte.md",
-    "AZ-900/1. Fundamentos Cloud na Azure/Tipos de Cloud.md",
-    "AZ-900/1. Fundamentos Cloud na Azure/Modelos de Cloud.md",
-    "AZ-900/1. Fundamentos Cloud na Azure/Conta gratuita.md",
-    "AZ-900/4. Serviços de Rede no Azure/4.6 Azure CDN.md",
-    "AZ-900/4. Serviços de Rede no Azure/4.5 Azure ExpressRoute.md",
-    "AZ-900/4. Serviços de Rede no Azure/4.4 Azure Application Gateway.md",
     "AZ-900/4. Serviços de Rede no Azure",
     "AZ-900",
     "AZ-900/3. Serviços de Computação no Azure",
     "assets/Pasted image 20260408110941.png",
     "assets",
     "Pasted image 20260408110945.png",
-    "AZ-900/2. Estrutura Azure",
-    "AZ-900/1. Fundamentos Cloud na Azure"
+    "AZ-900/2. Estrutura Azure"
   ]
 }
